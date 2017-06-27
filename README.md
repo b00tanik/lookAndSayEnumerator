@@ -30,5 +30,5 @@ Do not try it at home.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/look_and_say.
+Bug reports and pull requests are welcome on GitHub at https://github.com/b00tanik/look_and_say.
 
